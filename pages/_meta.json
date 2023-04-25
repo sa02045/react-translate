@@ -1,7 +1,5 @@
 {
-  "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "ManagingState": "상태 관리",
   "about": {
     "title": "About",
     "type": "page"
